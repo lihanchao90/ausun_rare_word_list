@@ -1,0 +1,2 @@
+# ausun_rare_word_list
+ausun_rare_word_list
